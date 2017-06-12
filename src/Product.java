@@ -13,7 +13,7 @@ public class Product {
 	public Product(){
 		//Default Constructor
 	}
- 
+         // used getter and setter methods to interact with the attributes
 	public String getProductName() {
 		return productName;
 	}
